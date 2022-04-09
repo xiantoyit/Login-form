@@ -1,0 +1,12 @@
+H:\비주얼스튜디오 풀더\Login forms\bin\Debug\Login forms.exe.config
+H:\비주얼스튜디오 풀더\Login forms\bin\Debug\Login forms.exe
+H:\비주얼스튜디오 풀더\Login forms\bin\Debug\Login forms.pdb
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login forms.csproj.AssemblyReference.cache
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login forms.csproj.SuggestedBindingRedirects.cache
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login_forms.Form1.resources
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login_forms.Form2.resources
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login_forms.Properties.Resources.resources
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login forms.csproj.GenerateResource.cache
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login forms.csproj.CoreCompileInputs.cache
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login forms.exe
+H:\비주얼스튜디오 풀더\Login forms\obj\Debug\Login forms.pdb
